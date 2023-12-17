@@ -27090,11 +27090,11 @@ var _stylesCss = require("./styles.css");
     name: "Sunidhi Sehwag",
     title: "Web Developer and a Learner",
     email: "sunidhisehwag@gmail.com",
-    gitHub: "https://github.com/SunidhiSehwag",
-    instagram: "https://www.instagram.com/sunidhisehwag/",
-    linkedIn: "https://www.linkedin.com/in/sunidhi-sehwag-7a1951256/",
+    gitHub: "/SunidhiSehwag",
+    instagram: "/sunidhisehwag/",
+    linkedIn: "/sunidhi-sehwag-7a1951256/",
     medium: "",
-    twitter: "https://twitter.com/SehwagSunidhi",
+    twitter: "/SehwagSunidhi",
     youTube: ""
 };
 const primaryColor = "#4E567E";
